@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "AYRN MM-1-Pro",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -47,7 +47,16 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 31,
-    "versionPublish": "4.11.6"
+    "versionPublish": "4.11.6",
+    "noImageResize": true,
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://store.ayrn.io",
+    "sitemapSwitcherAuto": "on",
+    "favicon": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
