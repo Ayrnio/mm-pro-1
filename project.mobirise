@@ -934,7 +934,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Side view",
+                "caption": "<p>Left side view</p>",
                 "active": false
               },
               {
@@ -947,7 +947,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Back view",
+                "caption": "Right side view",
                 "active": false
               },
               {
@@ -960,7 +960,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Back view",
                 "active": false
               },
               {
@@ -973,7 +973,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Left side component view (with panel removed)",
                 "active": false
               },
               {
@@ -986,7 +986,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Right side component view (with panel removed)",
                 "active": false
               },
               {
@@ -999,7 +999,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Component view",
                 "active": false
               },
               {
